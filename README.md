@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dinakanwamu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing](My Resume)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing)
 
 - ⚡ Fun fact **I am Man United Fan**
 
