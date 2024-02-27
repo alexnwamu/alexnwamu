@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Echo and Htmx**
 
-- 👨‍💻 All of my projects are available at [notdone.come](notdone.come)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **React, Next**
 
