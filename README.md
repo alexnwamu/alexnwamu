@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinaka Nwamu</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on ** a Portfolio website**
 
 - 🌱 I’m currently learning **Echo and Htmx**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dinakanwamu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing](https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I am Man United Fan**
 
