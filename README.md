@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">languages and tools:</h3>
+
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -173,5 +173,5 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnwamu&show_icons=true&locale=en&layout=compact" alt="alexnwamu" /></p>
-<br/>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnwamu&show_icons=true&locale=en&layout=compact" alt="alexnwamu" /></p>
+
