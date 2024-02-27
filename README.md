@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinaka Nwamu</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on ** a Portfolio website**
+- 🔭 I’m currently working on **a Portfolio website**
 
 - 🌱 I’m currently learning **Echo and Htmx**
 
@@ -173,4 +173,5 @@
   </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnwamu&show_icons=true&locale=en&layout=compact" alt="alexnwamu" /></p>
 <br/>
