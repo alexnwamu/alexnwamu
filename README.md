@@ -1,4 +1,4 @@
-<p align="center"><a href="https://alexnwamu.github.io"><img width="80%" alt="FULL STACK DEVELOPER" src="./header.jpeg" /></a></p>
+<p align="center"><a href="https://alexnwamu.github.io"><img width="100%" alt="FULL STACK DEVELOPER" src="./header.jpeg" /></a></p>
 
 <h1 align="center">Hi 👋, I'm Dinaka Nwamu</h1>
 <h3 align="center">A passionate fullstack developer</h3>
