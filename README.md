@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **a Portfolio website**
 
-- 🌱 I’m currently learning **Echo and Htmx**
+- 🌱 I’m currently learning **Flutter and Go**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/alexnwamu)
 
-- 💬 Ask me about **NextJS,React and Tailwind**
+- 💬 Ask me about **NextJS,React and AI**
 
 - 📫 How to reach me **dinakanwamu@gmail.com**
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing)
 
-- ⚡ Fun fact **I am Man United Fan**
+- ⚡ Fun fact **I love walks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
