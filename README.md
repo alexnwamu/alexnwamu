@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alex Nwamu</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on some  ** AI App **
+- 🔭 I’m currently working on some  **AI App**
 
 - 🌱 I’m currently learning **Flutter and Go**
 
