@@ -173,5 +173,4 @@
   </a>
 </p>
 
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnwamu&show_icons=true&locale=en&layout=compact" alt="alexnwamu" /></p>
 
