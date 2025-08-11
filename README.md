@@ -1,13 +1,13 @@
 <p align="center"><a href="https://alexnwamu.github.io"><img width="100%" alt="FULL STACK DEVELOPER" src="./header.jpeg" /></a></p>
 
-<h1 align="center">Hi 👋, I'm Dinaka Nwamu</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Alex Nwamu</h1>
+<h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on **a Portfolio website**
+- 🔭 I’m currently working on some  ** AI App **
 
 - 🌱 I’m currently learning **Flutter and Go**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/alexnwamu)
+- 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 
 - 💬 Ask me about **NextJS,React and AI**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1GpIorBl2OcXsVCPH8NQ_x8RRTwrauthb/view?usp=sharing)
 
-- ⚡ Fun fact **I love walks**
+- ⚡ Fun fact **I love fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
