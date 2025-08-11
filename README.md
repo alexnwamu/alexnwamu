@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 
-- 💬 Ask me about **NextJS,React and AI**
+- 💬 Ask me about **NextJS,Flutter and AI**
 
 - 📫 How to reach me **dinakanwamu@gmail.com**
 
