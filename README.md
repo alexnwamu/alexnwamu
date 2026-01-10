@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some  **AI App**
 
-- 🌱 I’m currently learning **Flutter and Go**
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 
