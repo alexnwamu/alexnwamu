@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dinakanwamu@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1K4MdAK6U2XEGY6uCiXVhj3bZHEXsgtJ1/view)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1bZqvXE-OgPCFCIueHp4U-dcgsVPXb-GS/view)
 
 - ⚡ Fun fact **I love fitness**
 
