@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Alex Nwamu</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on some **low level thing**
+- 🔭 I’m currently working on some **highly perfomant system**
 
-- 🌱 I’m currently learning **Java and Springboot**
+- 🌱 I’m currently learning **Rust **
 
 - 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 
