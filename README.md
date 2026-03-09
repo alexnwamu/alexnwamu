@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some **highly perfomant system**
 
-- 🌱 I’m currently learning **Rust **
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 
