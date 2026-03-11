@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alex Nwamu</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-- 🔭 I’m currently working on some **highly performant systems**
+- 🔭 I’m currently working on  **becoming cracked**
 - 🌱 I’m currently learning **Rust**
 - 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
 - 💬 Ask me about **NextJS, Flutter and AI**
