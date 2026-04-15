@@ -23,9 +23,9 @@ I'm now expanding into AI/ML and MLOps — focused on the parts of ML that look 
 
 ### What I'm building
 
-→ **[AI/ML Roadmap](https://github.com/YOUR-USERNAME/ai-roadmap)** — public log of my work moving into production AI. Four shipped projects, weekly writeups, what I'm learning along the way.
+→ **[AI/ML Roadmap](https://github.com/alexnwamu/ai-roadmap)** — public log of my work moving into production AI. Four shipped projects, weekly writeups, what I'm learning along the way.
 
-→ **Portfolio** — [dinaka.vercel.app](https://dinaka.vercel.app/) for selected full-stack work.
+→ **Portfolio** — [My portfolio](https://dinaka.vercel.app/) for selected full-stack work.
 
 ### How I work
 
@@ -44,27 +44,3 @@ If you're at a US-funded fintech (Series A–C) and looking for someone who can 
 **Infra:** Docker · AWS · Vercel
 **ML / AI:** NumPy · Pandas · scikit-learn · PyTorch · LLM APIs · RAG
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36" height="36" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="NestJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas"/>
-</p>
-
----
-
-<p align="center"><i>I write weekly about what I'm building. Follow along on <a href="https://linkedin.com/in/dinaka-nwamu-489683234">LinkedIn</a>.</i></p>
