@@ -1,46 +1,32 @@
-<h1 align="center">Alex Nwamu</h1>
-
-<p align="center">
-  <strong>Full-stack engineer</strong> · Frontend, backend, and increasingly ML / MLOps
-  <br/>
-  Building production AI features for fintech · Lagos, Nigeria · Remote
-</p>
-
-<p align="center">
-  <a href="https://dinaka.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/dinaka-nwamu-489683234">LinkedIn</a> ·
-  <a href="https://twitter.com/realdinaka">Twitter</a> ·
-  <a href="mailto:dinakanwamu@gmail.com">Email</a>
-</p>
-
+<p align="center"><a href="https://alexnwamu.github.io"><img width="100%" alt="FULL STACK DEVELOPER" src="./header.jpeg" /></a></p>
+<h1 align="center">Hi 👋, I'm Alex Nwamu</h1>
+<h3 align="center">A Fullstack Developer</h3>
+- 🔭 I’m currently working on  **becoming cracked**
+- 🌱 I’m currently learning **Rust**
+- 👨‍💻 My portfolio website is [here](https://dinaka.vercel.app/)
+- 💬 Ask me about **NextJS, Flutter and AI**
+- 📫 How to reach me **dinakanwamu@gmail.com**
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1bZqvXE-OgPCFCIueHp4U-dcgsVPXb-GS/view)
+- ⚡ Fun fact **I love fitness**
 ---
-
-### What I do
-
-I build full-stack applications end-to-end — frontend, backend, and the production engineering that holds it all together. I'm a fintech engineer by day, with React, Next.js, and Node as my daily drivers, and a working knowledge of Python, Go, and the wider backend ecosystem.
-
-I'm now expanding into AI/ML and MLOps — focused on the parts of ML that look most like real engineering: production pipelines, retrieval systems, cost-aware inference, and the failure modes that only show up after deployment.
-
-### What I'm building
-
-→ **[AI/ML Roadmap](https://github.com/alexnwamu/ai-roadmap)** — public log of my work moving into production AI. Four shipped projects, weekly writeups, what I'm learning along the way.
-
-→ **Portfolio** — [My portfolio](https://dinaka.vercel.app/) for selected full-stack work.
-
-### How I work
-
-Frontend instincts, backend literacy, production discipline. I ship things end-to-end rather than stopping at the prototype, and I write about what I build.
-
-If you're at a US-funded fintech (Series A–C) and looking for someone who can ship full-stack AI features without a senior ML hire, I'm open to conversations — full-time, contract, or paid trial projects.
-
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/realdinaka"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a>
+<a href="https://linkedin.com/in/dinaka-nwamu-489683234"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
+</p>
 ---
-
-### Stack
-
-**Languages:** TypeScript · JavaScript · Python · Go · Rust (learning)
-**Frontend:** React · Next.js · Tailwind · Flutter
-**Backend:** Node · NestJS · Express · FastAPI
-**Data:** PostgreSQL · MySQL · MongoDB
-**Infra:** Docker · AWS · Vercel
-**ML / AI:** NumPy · Pandas · scikit-learn · PyTorch · LLM APIs · RAG
-
+### 🛠 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</p>
