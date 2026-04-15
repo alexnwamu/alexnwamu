@@ -25,7 +25,7 @@
 
 ### 🛠 Languages and Tools
 
-<p align="center">
+<p align="left">
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
